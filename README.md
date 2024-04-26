@@ -1,4 +1,4 @@
-# Multiplayer-Shooter-Project
+# Multiplayer Shooter Project
 
 ![IMG_20170720_144128_466](https://i.postimg.cc/c4LxXR0J/ue-multiplayer-shooter.jpg)
 > [!NOTE]
